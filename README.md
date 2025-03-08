@@ -21,7 +21,7 @@ This project implements a machine learning model to predict company bankruptcy u
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/G-Andrew-N/company-bankruptcy-prediction]
 cd company-bankruptcy-prediction
 ```
 
